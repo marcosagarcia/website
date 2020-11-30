@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Marco Peloso | Marcos A. G. García</title>
+    <link>/authors/marco-peloso/</link>
+      <atom:link href="/authors/marco-peloso/index.xml" rel="self" type="application/rss+xml" />
+    <description>Marco Peloso</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 05 Sep 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Marco Peloso</title>
+      <link>/authors/marco-peloso/</link>
+    </image>
+    
+    <item>
+      <title>Enhancement of the Dark Matter Abundance Before Reheating: Applications to Gravitino Dark Matter</title>
+      <link>/publication/garcia-2017-tuj/</link>
+      <pubDate>Tue, 05 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/garcia-2017-tuj/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Post-Inflationary Gravitino Production Revisited</title>
+      <link>/publication/egnop/</link>
+      <pubDate>Thu, 17 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/egnop/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Primordial black holes | Marcos A. G. García</title>
+    <link>/tags/primordial-black-holes/</link>
+      <atom:link href="/tags/primordial-black-holes/index.xml" rel="self" type="application/rss+xml" />
+    <description>Primordial black holes</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 05 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Primordial black holes</title>
+      <link>/tags/primordial-black-holes/</link>
+    </image>
+    
+    <item>
+      <title>Brownian motion in the early Universe</title>
+      <link>/project/stochastic/</link>
+      <pubDate>Thu, 05 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>/project/stochastic/</guid>
+      <description>&lt;DIV align=&#34;justify&#34;&gt;
+Despite the great advances made to date by CMB observatories, we don&#39;t know yet which model of inflation operated in the early Universe. Embeddings of inflation into extensions of the Standard Model tend to be complex, involving many fields and complicated interactions (this is the case for string and supersymmetric models). Particle production during inflation could have then be driven by non-periodic, non-adiabatic interactions, which are stochastic and uncorrelated due to expansion
+of the Universe. In the limit of many fields/interactions, emergent universal properties arise: a fine-tuned arrangement of parameters is not necessary, and even a random distribution in the landscape of initial conditions/couplings can lead to viable models. Statistical tools are necessary, akin to those utilized to describe electron transport in wires, and stock and derivative pricing in finance. 
+&lt;p&gt;If stochastic particle production occurs during inflation, field amplitudes grow by performing geometric (Brownian) random walks in cosmic time, sourcing the primordial curvature fluctuation. The resulting power spectrum can mimic the nearly-scale invariant, featureless spectrum measured in the observable CMB window, and yet contain features of varied size and width outside this window. These peaks in the power spectrum will lead to gravitational collapse at certain length scales, and therefore source the production of primordial black holes in the early Universe.&lt;/p&gt;
+&lt;/DIV&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dark matter | Marcos A. G. García</title>
+    <link>/tags/dark-matter/</link>
+      <atom:link href="/tags/dark-matter/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dark matter</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 07 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Dark matter</title>
+      <link>/tags/dark-matter/</link>
+    </image>
+    
+    <item>
+      <title>Dark matter and the oscillating inflaton</title>
+      <link>/project/reheating/</link>
+      <pubDate>Sat, 07 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>/project/reheating/</guid>
+      <description>&lt;p&gt;(With Keith Olive (Minnesota), Yann Mambrini (IJCLab) and Kunio Kaneta (KIAS))&lt;/p&gt;
+&lt;DIV align=&#34;justify&#34;&gt;
+We currently study the perturbative decay of the inflaton as it oscillates about its minumum, assuming the small-field limit of its potential has the form $V(\Phi) = |\Phi|^k$. By keeping track of the non-instantaneous decay, the evolution of effective masses, and the dependence of the decay rate on the final state, we compute the evolution of the instantaneous temperature during reheating, and the production rate of dark matter at the early stages of reheating. So far results are only available for the decay of the inflaton into a pair of fermions. Non-trivial effects arise for both freeze-in and freeze-out dark matter production mechanisms.
+&lt;p&gt;In the future we will look at the effect of thermal corrections on rates, the thermalization of the decay products, and non-adiabatic, non-perturbative particle production. In the context of UV-dominated dark matter freeze-in models, these effects have not yet been considered for non-quadratic potentials.&lt;/p&gt;
+&lt;/DIV&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>How warm are non-thermal relics?</title>
+      <link>/project/lyman/</link>
+      <pubDate>Fri, 06 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>/project/lyman/</guid>
+      <description>&lt;p&gt;(With Guillermo Ballesteros and Mathias Pierre, both from IFT)&lt;/p&gt;
+&lt;DIV align=&#34;justify&#34;&gt;
+The light emitted from distant quasars excites the Lyman-$\alpha$ transition in the intergalactic medium. The spectral redshift between the reference frames of the light source and the absorber provides the position of the hydrogen cloud along our line of sight. This allows the measurement of the matter power spectrum at scales ~ Mpc, and imposes constraints on the allowed masses of a thermal warm dark matter candidate. If it is too light, it will not be sufficiently cold (non-relativistic) during structure formation, washing out structure due to its considerable velocity dispersion. 
+&lt;p&gt;We investigate the power spectrum of Non-Cold Dark Matter (NCDM) produced in an out-of-equilibrium state (from the decay of scalar condensates, of thermalized and non-thermalized particles, and from thermal and non-thermal freeze-in). We have found that the cutoff scale in the power spectrum is solely determined by the equation-of-state parameter $w$, and propose a mapping procedure to translate the Lyman-$\alpha$ bound on the WDM mass to NCDM scenarios without the need for numerical computations. By applying this procedure we find non-trivial bounds on NCDM candidates, ranging from $m_{\rm DM}\gtrsim {\rm EeV}$ for dark matter production from inflaton decay with a low reheating temperature, to sub-keV values for non-thermal freeze-in.&lt;/p&gt;
+&lt;/DIV&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

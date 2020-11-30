@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hong-Yi Xie | Marcos A. G. García</title>
+    <link>/authors/hong-yi-xie/</link>
+      <atom:link href="/authors/hong-yi-xie/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hong-Yi Xie</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 07 Jun 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Hong-Yi Xie</title>
+      <link>/authors/hong-yi-xie/</link>
+    </image>
+    
+    <item>
+      <title>Multifield Stochastic Particle Production: Beyond a Maximum Entropy Ansatz</title>
+      <link>/publication/amin-2017-wvc/</link>
+      <pubDate>Wed, 07 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/amin-2017-wvc/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

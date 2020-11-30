@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>John Ellis | Marcos A. G. García</title>
+    <link>/authors/john-ellis/</link>
+      <atom:link href="/authors/john-ellis/index.xml" rel="self" type="application/rss+xml" />
+    <description>John Ellis</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 03 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>John Ellis</title>
+      <link>/authors/john-ellis/</link>
+    </image>
+    
+    <item>
+      <title>Building Models of Inflation in No-Scale Supergravity</title>
+      <link>/publication/egnnov/</link>
+      <pubDate>Thu, 03 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/egnnov/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Proton Decay: Flipped vs Unflipped SU(5)</title>
+      <link>/publication/ellis-2020-qad/</link>
+      <pubDate>Fri, 06 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/ellis-2020-qad/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Superstring-Inspired Particle Cosmology: Inflation, Neutrino Masses, Leptogenesis, Dark Matter &amp; the SUSY Scale</title>
+      <link>/publication/ellis-2019-opr/</link>
+      <pubDate>Fri, 25 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/ellis-2019-opr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cosmology with a Master Coupling in Flipped SU(5) $\times$ U(1): the $\lambda_6$ Universe</title>
+      <link>/publication/ellis-2019-jha/</link>
+      <pubDate>Thu, 20 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/ellis-2019-jha/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Symmetry Breaking and Reheating after Inflation in No-Scale Flipped SU(5)</title>
+      <link>/publication/ellis-2018-moe/</link>
+      <pubDate>Wed, 19 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/ellis-2018-moe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Starobinsky-like Inflation, Supercosmology and Neutrino Masses in No-Scale Flipped SU(5)</title>
+      <link>/publication/ellis-2017-jcp/</link>
+      <pubDate>Mon, 24 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/ellis-2017-jcp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Starobinsky-Like Inflation and Neutrino Masses in a No-Scale SO(10) Model</title>
+      <link>/publication/ellis-2016-ipm/</link>
+      <pubDate>Mon, 19 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/ellis-2016-ipm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Post-Inflationary Gravitino Production Revisited</title>
+      <link>/publication/egnop/</link>
+      <pubDate>Thu, 17 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/egnop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>No-Scale Inflation</title>
+      <link>/publication/ellis-2015-xna/</link>
+      <pubDate>Wed, 08 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/ellis-2015-xna/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Calculations of Inflaton Decays and Reheating: with Applications to No-Scale Inflation Models</title>
+      <link>/publication/ellis-2015-pla/</link>
+      <pubDate>Tue, 26 May 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/ellis-2015-pla/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Phenomenological Aspects of No-Scale Inflation Models</title>
+      <link>/publication/ellis-2015-kqa/</link>
+      <pubDate>Mon, 30 Mar 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/ellis-2015-kqa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Two-Field Analysis of No-Scale Supergravity Inflation</title>
+      <link>/publication/ellis-2014-opa/</link>
+      <pubDate>Mon, 29 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/ellis-2014-opa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Resurrecting Quadratic Inflation in No-Scale Supergravity in Light of BICEP2</title>
+      <link>/publication/ellis-2014-rxa/</link>
+      <pubDate>Wed, 28 May 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/ellis-2014-rxa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A No-Scale Inflationary Model to Fit Them All</title>
+      <link>/publication/ellis-2014-gxa/</link>
+      <pubDate>Thu, 01 May 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/ellis-2014-gxa/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

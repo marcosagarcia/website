@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sarunas Verner | Marcos A. G. García</title>
+    <link>/authors/sarunas-verner/</link>
+      <atom:link href="/authors/sarunas-verner/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sarunas Verner</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 03 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Sarunas Verner</title>
+      <link>/authors/sarunas-verner/</link>
+    </image>
+    
+    <item>
+      <title>Building Models of Inflation in No-Scale Supergravity</title>
+      <link>/publication/egnnov/</link>
+      <pubDate>Thu, 03 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/egnnov/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Case for decaying spin- 3/2 dark matter</title>
+      <link>/publication/gmov/</link>
+      <pubDate>Fri, 05 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/gmov/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

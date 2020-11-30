@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Supersymmetry | Marcos A. G. García</title>
+    <link>/tags/supersymmetry/</link>
+      <atom:link href="/tags/supersymmetry/index.xml" rel="self" type="application/rss+xml" />
+    <description>Supersymmetry</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 07 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Supersymmetry</title>
+      <link>/tags/supersymmetry/</link>
+    </image>
+    
+    <item>
+      <title>Supersymmetric Higgs inflation</title>
+      <link>/project/munuinflation/</link>
+      <pubDate>Sat, 07 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>/project/munuinflation/</guid>
+      <description>&lt;p&gt;(With Carlos Muñoz at IFT)&lt;/p&gt;
+&lt;DIV align=&#34;justify&#34;&gt;
+The &#39;$\mu\nu$SSM&#39; is a supersymmetric extension of the Standar Model which includes three right handed neutrino superfields. These couple to the Higgs field and, upon developing vaccum expectation values after electroweak symmetry breaking, generate effective mass terms for Higgsinos, solving the $\mu$-problem. Moreover, their coupling to Standard Model neutrinos, and to themselves, generates Majorana masses, leading to an electroweak-scale seesaw. Hence, the only scale in the $\mu\nu$SSM is the electroweak scale. We currently investigate if the incorporation of (Higgs) inflation into the model retains this key feature.
+&lt;/DIV&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

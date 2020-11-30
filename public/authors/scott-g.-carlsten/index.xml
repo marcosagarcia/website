@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Scott G. Carlsten | Marcos A. G. García</title>
+    <link>/authors/scott-g.-carlsten/</link>
+      <atom:link href="/authors/scott-g.-carlsten/index.xml" rel="self" type="application/rss+xml" />
+    <description>Scott G. Carlsten</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 25 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Scott G. Carlsten</title>
+      <link>/authors/scott-g.-carlsten/</link>
+    </image>
+    
+    <item>
+      <title>Stochastic Particle Production in a de Sitter Background</title>
+      <link>/publication/garcia-2019-icv/</link>
+      <pubDate>Mon, 25 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/garcia-2019-icv/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yann Mambrini | Marcos A. G. García</title>
+    <link>/authors/yann-mambrini/</link>
+      <atom:link href="/authors/yann-mambrini/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yann Mambrini</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 05 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Yann Mambrini</title>
+      <link>/authors/yann-mambrini/</link>
+    </image>
+    
+    <item>
+      <title>Case for decaying spin- 3/2 dark matter</title>
+      <link>/publication/gmov/</link>
+      <pubDate>Fri, 05 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/gmov/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reheating and Post-inflationary Production of Dark Matter</title>
+      <link>/publication/gkmo1/</link>
+      <pubDate>Fri, 17 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/gkmo1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enhancement of the Dark Matter Abundance Before Reheating: Applications to Gravitino Dark Matter</title>
+      <link>/publication/garcia-2017-tuj/</link>
+      <pubDate>Tue, 05 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/garcia-2017-tuj/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

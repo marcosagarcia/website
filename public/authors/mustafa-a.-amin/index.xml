@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mustafa A. Amin | Marcos A. G. García</title>
+    <link>/authors/mustafa-a.-amin/</link>
+      <atom:link href="/authors/mustafa-a.-amin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mustafa A. Amin</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 24 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Mustafa A. Amin</title>
+      <link>/authors/mustafa-a.-amin/</link>
+    </image>
+    
+    <item>
+      <title>Curvature Perturbations From Stochastic Particle Production During Inflation</title>
+      <link>/publication/garcia-2020-mwi/</link>
+      <pubDate>Fri, 24 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/garcia-2020-mwi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stochastic Particle Production in a de Sitter Background</title>
+      <link>/publication/garcia-2019-icv/</link>
+      <pubDate>Mon, 25 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/garcia-2019-icv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prethermalization production of dark matter</title>
+      <link>/publication/garcia-2018-wtq/</link>
+      <pubDate>Tue, 05 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/garcia-2018-wtq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gravitational Wave Emission from Collisions of Compact Scalar Solitons</title>
+      <link>/publication/helfer-2018-vtq/</link>
+      <pubDate>Mon, 19 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/helfer-2018-vtq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multifield Stochastic Particle Production: Beyond a Maximum Entropy Ansatz</title>
+      <link>/publication/amin-2017-wvc/</link>
+      <pubDate>Wed, 07 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/amin-2017-wvc/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

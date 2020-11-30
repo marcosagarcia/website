@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mathias Pierre | Marcos A. G. García</title>
+    <link>/authors/mathias-pierre/</link>
+      <atom:link href="/authors/mathias-pierre/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mathias Pierre</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 30 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Mathias Pierre</title>
+      <link>/authors/mathias-pierre/</link>
+    </image>
+    
+    <item>
+      <title>How warm are non-thermal relics? Lyman-$\alpha$ bounds on out-of-equilibrium dark matter</title>
+      <link>/publication/bgp/</link>
+      <pubDate>Mon, 30 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/bgp/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

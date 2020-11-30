@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags | Marcos A. G. García</title>
+    <link>/tags/</link>
+      <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tags</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 07 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Tags</title>
+      <link>/tags/</link>
+    </image>
+    
+    <item>
+      <title>Dark matter</title>
+      <link>/tags/dark-matter/</link>
+      <pubDate>Sat, 07 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/dark-matter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inflation</title>
+      <link>/tags/inflation/</link>
+      <pubDate>Sat, 07 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/inflation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neutrinos</title>
+      <link>/tags/neutrinos/</link>
+      <pubDate>Sat, 07 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/neutrinos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reheating</title>
+      <link>/tags/reheating/</link>
+      <pubDate>Sat, 07 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/reheating/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Supersymmetry</title>
+      <link>/tags/supersymmetry/</link>
+      <pubDate>Sat, 07 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/supersymmetry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gravitational waves</title>
+      <link>/tags/gravitational-waves/</link>
+      <pubDate>Thu, 05 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/gravitational-waves/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Primordial black holes</title>
+      <link>/tags/primordial-black-holes/</link>
+      <pubDate>Thu, 05 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/primordial-black-holes/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
