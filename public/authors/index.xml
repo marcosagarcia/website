@@ -5,7 +5,7 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 30 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 12 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Authors</title>
@@ -13,18 +13,42 @@
     </image>
     
     <item>
-      <title>Guillermo Ballesteros</title>
-      <link>/authors/guillermo-ballesteros/</link>
-      <pubDate>Mon, 30 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/guillermo-ballesteros/</guid>
+      <title>Keith A. Olive</title>
+      <link>/authors/keith-a.-olive/</link>
+      <pubDate>Sat, 12 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/keith-a.-olive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kunio Kaneta</title>
+      <link>/authors/kunio-kaneta/</link>
+      <pubDate>Sat, 12 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/kunio-kaneta/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Marcos A. G. García</title>
       <link>/authors/marcos-a.-g.-garcia/</link>
-      <pubDate>Mon, 30 Nov 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 12 Dec 2020 00:00:00 +0000</pubDate>
       <guid>/authors/marcos-a.-g.-garcia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yann Mambrini</title>
+      <link>/authors/yann-mambrini/</link>
+      <pubDate>Sat, 12 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/yann-mambrini/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Guillermo Ballesteros</title>
+      <link>/authors/guillermo-ballesteros/</link>
+      <pubDate>Mon, 30 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/guillermo-ballesteros/</guid>
       <description></description>
     </item>
     
@@ -53,14 +77,6 @@
     </item>
     
     <item>
-      <title>Keith A. Olive</title>
-      <link>/authors/keith-a.-olive/</link>
-      <pubDate>Thu, 03 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/keith-a.-olive/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Natsumi Nagata</title>
       <link>/authors/natsumi-nagata/</link>
       <pubDate>Thu, 03 Sep 2020 00:00:00 +0000</pubDate>
@@ -73,14 +89,6 @@
       <link>/authors/sarunas-verner/</link>
       <pubDate>Thu, 03 Sep 2020 00:00:00 +0000</pubDate>
       <guid>/authors/sarunas-verner/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Yann Mambrini</title>
-      <link>/authors/yann-mambrini/</link>
-      <pubDate>Fri, 05 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/yann-mambrini/</guid>
       <description></description>
     </item>
     
@@ -105,14 +113,6 @@
       <link>/authors/carlos-a.-escobar/</link>
       <pubDate>Thu, 28 May 2020 00:00:00 +0000</pubDate>
       <guid>/authors/carlos-a.-escobar/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Kunio Kaneta</title>
-      <link>/authors/kunio-kaneta/</link>
-      <pubDate>Fri, 17 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/kunio-kaneta/</guid>
       <description></description>
     </item>
     

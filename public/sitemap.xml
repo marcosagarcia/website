@@ -3,28 +3,73 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/talk/seminar/tokyo2020/</loc>
-    <lastmod>2020-11-30T15:14:00+01:00</lastmod>
+    <loc>/publication_types/3/</loc>
+    <lastmod>2020-12-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
+    <lastmod>2020-12-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/gkmo2/</loc>
+    <lastmod>2020-12-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/keith-a.-olive/</loc>
+    <lastmod>2020-12-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/kunio-kaneta/</loc>
+    <lastmod>2020-12-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/</loc>
+    <lastmod>2020-12-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/marcos-a.-g.-garcia/</loc>
+    <lastmod>2020-12-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2020-12-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2020-12-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/yann-mambrini/</loc>
+    <lastmod>2020-12-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/1/</loc>
+    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/iwara/</loc>
+    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/seminar/tokyo2020/</loc>
     <lastmod>2020-11-30T15:14:00+01:00</lastmod>
   </url>
   
   <url>
     <loc>/talk/</loc>
     <lastmod>2020-11-30T15:14:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/3/</loc>
-    <lastmod>2020-11-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/</loc>
-    <lastmod>2020-11-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -38,22 +83,7 @@
   </url>
   
   <url>
-    <loc>/authors/marcos-a.-g.-garcia/</loc>
-    <lastmod>2020-11-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/authors/mathias-pierre/</loc>
-    <lastmod>2020-11-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2020-11-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
     <lastmod>2020-11-30T00:00:00+00:00</lastmod>
   </url>
   
@@ -148,11 +178,6 @@
   </url>
   
   <url>
-    <loc>/authors/keith-a.-olive/</loc>
-    <lastmod>2020-09-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/authors/natsumi-nagata/</loc>
     <lastmod>2020-09-03T00:00:00+00:00</lastmod>
   </url>
@@ -174,11 +199,6 @@
   
   <url>
     <loc>/publication/gmov/</loc>
-    <lastmod>2020-06-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/yann-mambrini/</loc>
     <lastmod>2020-06-05T00:00:00+00:00</lastmod>
   </url>
   
@@ -210,11 +230,6 @@
   <url>
     <loc>/talk/seminar/ift2020/</loc>
     <lastmod>2020-04-29T15:14:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/kunio-kaneta/</loc>
-    <lastmod>2020-04-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
