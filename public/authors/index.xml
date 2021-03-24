@@ -5,12 +5,20 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 12 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 03 Feb 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Authors</title>
       <link>/authors/</link>
     </image>
+    
+    <item>
+      <title>Marcos A. G. García</title>
+      <link>/authors/marcos-a.-g.-garcia/</link>
+      <pubDate>Wed, 03 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/marcos-a.-g.-garcia/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Keith A. Olive</title>
@@ -25,14 +33,6 @@
       <link>/authors/kunio-kaneta/</link>
       <pubDate>Sat, 12 Dec 2020 00:00:00 +0000</pubDate>
       <guid>/authors/kunio-kaneta/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Marcos A. G. García</title>
-      <link>/authors/marcos-a.-g.-garcia/</link>
-      <pubDate>Sat, 12 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/marcos-a.-g.-garcia/</guid>
       <description></description>
     </item>
     

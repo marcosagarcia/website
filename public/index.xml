@@ -5,7 +5,7 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Marcos A. G. García</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 12 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 03 Feb 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Marcos A. G. García</title>
@@ -13,18 +13,26 @@
     </image>
     
     <item>
-      <title>Inflaton Oscillations and Post-Inflationary Reheating</title>
-      <link>/publication/gkmo2/</link>
-      <pubDate>Sat, 12 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/gkmo2/</guid>
+      <title>Reheating and Dark Matter Production</title>
+      <link>/publication/iwara/</link>
+      <pubDate>Wed, 03 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/iwara/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Reheating and Dark Matter Production</title>
-      <link>/publication/iwara/</link>
-      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/iwara/</guid>
+      <title>Dark Matter Production During Reheating (by example)</title>
+      <link>/talk/conference/multidark2021/</link>
+      <pubDate>Wed, 27 Jan 2021 15:14:00 +0100</pubDate>
+      <guid>/talk/conference/multidark2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inflaton Oscillations and Post-Inflationary Reheating</title>
+      <link>/publication/gkmo2/</link>
+      <pubDate>Sat, 12 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/gkmo2/</guid>
       <description></description>
     </item>
     
