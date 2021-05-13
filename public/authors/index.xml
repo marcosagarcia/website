@@ -5,7 +5,7 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 03 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 08 Apr 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Authors</title>
@@ -13,18 +13,50 @@
     </image>
     
     <item>
-      <title>Marcos A. G. García</title>
-      <link>/authors/marcos-a.-g.-garcia/</link>
-      <pubDate>Wed, 03 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>/authors/marcos-a.-g.-garcia/</guid>
+      <title>Emilian Dudas</title>
+      <link>/authors/emilian-dudas/</link>
+      <pubDate>Thu, 08 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/emilian-dudas/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Keith A. Olive</title>
       <link>/authors/keith-a.-olive/</link>
-      <pubDate>Sat, 12 Dec 2020 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 08 Apr 2021 00:00:00 +0000</pubDate>
       <guid>/authors/keith-a.-olive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marco Peloso</title>
+      <link>/authors/marco-peloso/</link>
+      <pubDate>Thu, 08 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/marco-peloso/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marcos A. G. García</title>
+      <link>/authors/marcos-a.-g.-garcia/</link>
+      <pubDate>Thu, 08 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/marcos-a.-g.-garcia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sarunas Verner</title>
+      <link>/authors/sarunas-verner/</link>
+      <pubDate>Thu, 08 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/sarunas-verner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yann Mambrini</title>
+      <link>/authors/yann-mambrini/</link>
+      <pubDate>Thu, 08 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/yann-mambrini/</guid>
       <description></description>
     </item>
     
@@ -33,14 +65,6 @@
       <link>/authors/kunio-kaneta/</link>
       <pubDate>Sat, 12 Dec 2020 00:00:00 +0000</pubDate>
       <guid>/authors/kunio-kaneta/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Yann Mambrini</title>
-      <link>/authors/yann-mambrini/</link>
-      <pubDate>Sat, 12 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/yann-mambrini/</guid>
       <description></description>
     </item>
     
@@ -81,14 +105,6 @@
       <link>/authors/natsumi-nagata/</link>
       <pubDate>Thu, 03 Sep 2020 00:00:00 +0000</pubDate>
       <guid>/authors/natsumi-nagata/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sarunas Verner</title>
-      <link>/authors/sarunas-verner/</link>
-      <pubDate>Thu, 03 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/sarunas-verner/</guid>
       <description></description>
     </item>
     
@@ -161,14 +177,6 @@
       <link>/authors/thomas-helfer/</link>
       <pubDate>Mon, 19 Feb 2018 00:00:00 +0000</pubDate>
       <guid>/authors/thomas-helfer/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Marco Peloso</title>
-      <link>/authors/marco-peloso/</link>
-      <pubDate>Tue, 05 Sep 2017 00:00:00 +0000</pubDate>
-      <guid>/authors/marco-peloso/</guid>
       <description></description>
     </item>
     

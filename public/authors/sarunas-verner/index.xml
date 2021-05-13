@@ -5,12 +5,20 @@
     <link>/authors/sarunas-verner/</link>
       <atom:link href="/authors/sarunas-verner/index.xml" rel="self" type="application/rss+xml" />
     <description>Sarunas Verner</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 03 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 08 Apr 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Sarunas Verner</title>
       <link>/authors/sarunas-verner/</link>
     </image>
+    
+    <item>
+      <title>Slow and Safe Gravitinos</title>
+      <link>/publication/slowgravitino/</link>
+      <pubDate>Thu, 08 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/slowgravitino/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Building Models of Inflation in No-Scale Supergravity</title>
