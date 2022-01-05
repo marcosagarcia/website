@@ -5,7 +5,7 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Marcos A. G. García</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 26 Apr 2021 15:14:00 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 08 Dec 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Marcos A. G. García</title>
@@ -13,10 +13,106 @@
     </image>
     
     <item>
+      <title>BICEP/Keck Constraints on Attractor Models of Inflation and Reheating</title>
+      <link>/publication/newbkp/</link>
+      <pubDate>Wed, 08 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/newbkp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Freeze-in from Preheating</title>
+      <link>/talk/conference/simons2021/</link>
+      <pubDate>Fri, 19 Nov 2021 15:14:00 +0100</pubDate>
+      <guid>/talk/conference/simons2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dark Matter and the Early Universe</title>
+      <link>/talk/conference/paris2021_ii/</link>
+      <pubDate>Thu, 04 Nov 2021 15:14:00 +0100</pubDate>
+      <guid>/talk/conference/paris2021_ii/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Freeze-in from Preheating</title>
+      <link>/talk/conference/paris2021_i/</link>
+      <pubDate>Tue, 02 Nov 2021 15:14:00 +0100</pubDate>
+      <guid>/talk/conference/paris2021_i/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Super-Cosmology</title>
+      <link>/talk/seminar/ifunam2021_ii/</link>
+      <pubDate>Fri, 15 Oct 2021 15:14:00 +0100</pubDate>
+      <guid>/talk/seminar/ifunam2021_ii/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dark Matter from Inflation</title>
+      <link>/talk/seminar/uam2021/</link>
+      <pubDate>Mon, 11 Oct 2021 15:14:00 +0100</pubDate>
+      <guid>/talk/seminar/uam2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Freeze-in from Preheating</title>
+      <link>/publication/freezeinpreheating/</link>
+      <pubDate>Mon, 27 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/freezeinpreheating/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dark Matter from Reheating</title>
+      <link>/talk/conference/barolo2021/</link>
+      <pubDate>Fri, 10 Sep 2021 15:14:00 +0100</pubDate>
+      <guid>/talk/conference/barolo2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dark Matter as a Probe of Inflation</title>
+      <link>/talk/seminar/ifunam2021_i/</link>
+      <pubDate>Fri, 02 Jul 2021 15:14:00 +0100</pubDate>
+      <guid>/talk/seminar/ifunam2021_i/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dark Matter from Inflation</title>
+      <link>/talk/seminar/tdli2021_ii/</link>
+      <pubDate>Tue, 29 Jun 2021 15:14:00 +0100</pubDate>
+      <guid>/talk/seminar/tdli2021_ii/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dark Matter Production During Reheating (by example)</title>
+      <link>/talk/conference/pascos2021/</link>
+      <pubDate>Thu, 17 Jun 2021 15:14:00 +0100</pubDate>
+      <guid>/talk/conference/pascos2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Constraining out-of-equilibrium dark matter</title>
       <link>/talk/seminar/tdli2021/</link>
       <pubDate>Mon, 26 Apr 2021 15:14:00 +0100</pubDate>
       <guid>/talk/seminar/tdli2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Realization of WIMPflation</title>
+      <link>/publication/wimpflation/</link>
+      <pubDate>Thu, 08 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/wimpflation/</guid>
       <description></description>
     </item>
     
