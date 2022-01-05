@@ -5,12 +5,36 @@
     <link>/authors/keith-a.-olive/</link>
       <atom:link href="/authors/keith-a.-olive/index.xml" rel="self" type="application/rss+xml" />
     <description>Keith A. Olive</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 08 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 08 Dec 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Keith A. Olive</title>
       <link>/authors/keith-a.-olive/</link>
     </image>
+    
+    <item>
+      <title>BICEP/Keck Constraints on Attractor Models of Inflation and Reheating</title>
+      <link>/publication/newbkp/</link>
+      <pubDate>Wed, 08 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/newbkp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Freeze-in from Preheating</title>
+      <link>/publication/freezeinpreheating/</link>
+      <pubDate>Mon, 27 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/freezeinpreheating/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Realization of WIMPflation</title>
+      <link>/publication/wimpflation/</link>
+      <pubDate>Thu, 08 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/wimpflation/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Slow and Safe Gravitinos</title>
